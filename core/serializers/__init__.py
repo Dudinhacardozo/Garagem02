@@ -4,4 +4,3 @@ from .categoria import CategoriaSerializer
 from .cor import CorSerializer
 from .marca import MarcaSerializer
 
-
